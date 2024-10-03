@@ -13,6 +13,8 @@ This project demonstrates a predictive maintenance system for industrial pumps u
 
 ![Deployment on LocalHost](images/SS_01.jpg)
 
+![Deployment on LocalHost](images/SS_02.jpg)
+
 ## Docker Deployment
 
 To deploy using Docker:
