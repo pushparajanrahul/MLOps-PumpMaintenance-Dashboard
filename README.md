@@ -11,6 +11,8 @@ This project demonstrates a predictive maintenance system for industrial pumps u
 4. Train the model: `python src/train_model.py`
 5. Run the Streamlit app: `streamlit run app.py`
 
+![Deployment on LocalHost](images/SS_01.jpg)
+
 ## Docker Deployment
 
 To deploy using Docker:
