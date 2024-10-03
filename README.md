@@ -1,4 +1,4 @@
-# MLOps-PumpMaintenance-Dashboard using Streamlit | Docker | AWS |
+# MLOps-PumpMaintenance-Dashboard using Streamlit | Docker | AWS
 
 
 This project demonstrates a predictive maintenance system for industrial pumps using Streamlit, Docker, AWS.
